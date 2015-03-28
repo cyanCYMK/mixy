@@ -1,0 +1,19 @@
+{
+  "name": "mixy",
+  "version": "1.0.0",
+  "description": "make mixtapes",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christine Lee",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.12.3"
+  },
+  "dependencies": {
+    "express": "^4.12.3",
+    "lodash": "^3.5.0",
+    "mongoose": "^4.0.1"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "mixy",
+  "version": "0.0.0",
+  "authors": [
+    "Christine Lee <cylee4@gmail.com>"
+  ],
+  "description": "make mixtapes",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.0"
+  }
+}
